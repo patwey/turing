@@ -1,4 +1,6 @@
-# Chapter 7: Before you start, figure out if it's a hard skill or a soft skill
+# Little Book of Talent Reflections
+
+## Chapter 7: Before you start, figure out if it's a hard skill or a soft skill
 
 Hard skills are actions that are performed with machine-like precision. They are those that, ideally, are done exactly right all the time. When I look at what little I know about programming, some hard skills jump out. It seems that anything comprising the barrier between your desired task and the computer performing that task is a hard skill.  For instance, there are shell commands, keyboarding skills, language syntax, and keybindings.  Each of these things must be done exactly, because each character matters.  Missing a simple character can be the difference between navigating to the right directory or writing code that runs and raising an error.
 
@@ -6,7 +8,7 @@ Soft skills have no clear correctness. Rather, a desirable result can be reached
 
 To apply this knowledge at Turing, I can focus on building the muscle memory and mental precision needed for hard skills through relentless practice.  Constantly writing code and navigating my computer with these skills in mind, as well as deliberately practicing them will help to solidify them in my subconscious.  To enable myself to make the proper reads required for the soft skills of being a student here, I can ensure that I enter each day/situation mindful and alert. In addition, I can enter each problem with a mind that's open to more than one 'right' solution, as well as an ego that's pushed aside.
 
-# Chapter 8: To build hard skills, work like a careful carpenter
+## Chapter 8: To build hard skills, work like a careful carpenter
 
 When you are building your hard skills, you have to go slowly and deliberately.  Precision matters, because each repetition paves the way for future action.  Furthermore, perfect each fundamental before moving on.
 
