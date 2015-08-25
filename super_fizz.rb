@@ -13,7 +13,7 @@
   elsif n % 7 == 0
     puts 'Super'
   else
-    puts n
+    n
   end
 end
 
@@ -23,6 +23,6 @@ end
   output += 'Super' if n % 7 == 0
   output += 'Fizz' if n % 3 == 0
   output += 'Buzz' if n % 5 == 0
-  output += n.to_s if output == ''
+  output = n.to_s if output == '' || output == 'FizzBuzz'
   puts output
 end
