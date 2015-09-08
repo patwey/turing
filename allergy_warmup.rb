@@ -25,6 +25,3 @@ def get_allergies(number)
   end
   allergies # returns an array of strings
 end
-
-allergies = get_allergies(128 + 32 + 4 + 8)
-puts allergies

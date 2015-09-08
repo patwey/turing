@@ -13,3 +13,9 @@ To apply this knowledge at Turing, I can focus on building the muscle memory and
 When you are building your hard skills, you have to go slowly and deliberately.  Precision matters, because each repetition paves the way for future action.  Furthermore, perfect each fundamental before moving on.
 
 For me, this means applying the discipline necessary to move slowly and practice often. It means finding the grit to not just get something right once, but to get it right and then get it right three more times before moving on. For instance, taking the keybindings sheet and practicing it until I can navigate without thinking about what keys to press tonight, and then coming in early tomorrow to practice it again before class.
+
+## Update: 8/28
+
+- What is the biggest thing you could change that would improve your chances of success here?
+
+I need to work on my ability to learn/problem solve collaboratively.  My initial impulse is to go off on my own for something that I don't know and not come back until I understand it better.  I think I could benefit myself and my classmates more by making my struggles more transparent both so that we can know we're not alone and so that we can grow together.
