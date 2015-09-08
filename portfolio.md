@@ -27,7 +27,7 @@ Github: https://github.com/patwey/linked-list
 - Fundamental Ruby & Style: 3
 - Enumerable & Collections: 3
 
-Github url: https://github.com/patwey/binary-search-tree
+Github: https://github.com/patwey/binary-search-tree
 
 ## Team
 
