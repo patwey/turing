@@ -12,7 +12,22 @@
 [Github url](https://github.com/patwey/sorting-suite)
 
 ### Linked List
+- Functional Expectations: 4
+- Test-Driven Development: 4
+- Encapsulation / Breaking Logic into Components: 3
+- Fundamental Ruby & Style: 3
+- Looping or Recursion: 3
 
+[Github url](https://github.com/patwey/linked-list)
+
+### Binary Search Tree
+- Functional Expectations: 4
+- Test-Driven Development: 4
+- Encapsulation / Breaking Logic into Components: 3
+- Fundamental Ruby & Style: 3
+- Enumerable & Collections: 3
+
+[Github url](https://github.com/patwey/binary-search-tree)
 
 ## Team
 
