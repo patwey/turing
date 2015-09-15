@@ -4,10 +4,12 @@ Enrollment class
 * instantiating the class: dist_20 = Enrollment.new('District 20')
 
 * a method requiring dropout rates:
-    dropout_rates = EnrollmentParser.parse(@name, InputFiles::DROPOUT_FILE)
+        
+        dropout_rates = EnrollmentParser.parse(@name, InputFiles::DROPOUT_FILE)
 
 * a method require graduation rates:   
-    grad_rates = EnrollmentParser.parse(@name, InputFiles::GRAD_FILE)
+        
+        grad_rates = EnrollmentParser.parse(@name, InputFiles::GRAD_FILE)
 
 
 EnrollmentParser class
@@ -16,12 +18,13 @@ EnrollmentParser class
 * e.g.: EnrollmentParser(district, file)
 
 * parse method:
-    def parse
-      CSV.foreach(file) do |row|
-        # put stuff in output hash
-      end
-      output_hash # return this
-    end
+        
+        def parse
+          CSV.foreach(file) do |row|
+            # put stuff in output hash
+          end
+          output_hash # return this
+        end
 
 InputFiles class
 ----------------
