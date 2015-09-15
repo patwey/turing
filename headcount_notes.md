@@ -1,7 +1,9 @@
 Enrollment class
 ----------------
 * holds a district name and the methods we want to call
-* instantiating the class: dist_20 = Enrollment.new('District 20')
+* instantiating the class: 
+ 
+        dist_20 = Enrollment.new('District 20')
 
 * a method requiring dropout rates:
         
@@ -15,7 +17,9 @@ Enrollment class
 EnrollmentParser class
 ----------------------
 * pass a district name and the file we want to access
-* e.g.: EnrollmentParser(district, file)
+* instantiating the class: 
+
+        EnrollmentParser(district, file)
 
 * parse method:
         
@@ -29,4 +33,6 @@ EnrollmentParser class
 InputFiles class
 ----------------
 * holds the filenames and their associated type that we want to store
-* e.g.: InputFiles::DROPOUT_FILE
+* the dropout data file path: 
+ 
+        InputFiles::DROPOUT_FILE
