@@ -5,14 +5,19 @@ Enrollment class
  
         dist_20 = Enrollment.new('District 20')
 
-* a method requiring dropout rates:
+* in a method requiring dropout rates:
         
-        dropout_rates = EnrollmentParser.parse(@name, InputFiles::DROPOUT_FILE)
+        def dropout_rates_in_year(year)
+          dropout_rates = EnrollmentParser.parse(@name, InputFiles::DROPOUT_FILE)
+          # then, filter the data from the dropout_rates hash
+        end
 
-* a method require graduation rates:   
+* in a method requiring graduation rates:   
         
-        grad_rates = EnrollmentParser.parse(@name, InputFiles::GRAD_FILE)
-
+        def graduation_rates_in_year(year)
+          grad_rates = EnrollmentParser.parse(@name, InputFiles::GRAD_FILE)
+          # then, filter the data from the grad_rates hash
+        end
 
 EnrollmentParser class
 ----------------------
