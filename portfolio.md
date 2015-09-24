@@ -9,7 +9,7 @@
 - Ruby Style: 3
 - Organization: 3
 
-Github: https://github.com/patwey/sorting-suite
+  Github: https://github.com/patwey/sorting-suite
 
 ### Linked List
 - Functional Expectations: 4
@@ -18,7 +18,7 @@ Github: https://github.com/patwey/sorting-suite
 - Fundamental Ruby & Style: 3
 - Looping or Recursion: 3
 
-Github: https://github.com/patwey/linked-list
+  Github: https://github.com/patwey/linked-list
 
 ### Binary Search Tree
 - Functional Expectations: 4
@@ -27,7 +27,7 @@ Github: https://github.com/patwey/linked-list
 - Fundamental Ruby & Style: 3
 - Enumerable & Collections: 3
 
-Github: https://github.com/patwey/binary-search-tree
+  Github: https://github.com/patwey/binary-search-tree
 
 ### Night Writer
 - Overall: 3
@@ -35,7 +35,7 @@ Github: https://github.com/patwey/binary-search-tree
 - Test-Driven Developent: 2
 - Components: 3
 
-Github: https://github.com/patwey/night_writer
+  Github: https://github.com/patwey/night_writer
 
 ## Team
 
@@ -45,7 +45,7 @@ Github: https://github.com/patwey/night_writer
 - Fundamental Ruby & Style: 3
 - Encapsulation: 3
 
-Github: https://github.com/jasonpilz/Headcount
+  Github: https://github.com/jasonpilz/Headcount
 
 ## Community
 
