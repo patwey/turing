@@ -29,8 +29,28 @@ Github: https://github.com/patwey/linked-list
 
 Github: https://github.com/patwey/binary-search-tree
 
+### Night Writer
+- Overall: 3
+- Fundamental Ruby & Style: 3
+- Test-Driven Developent: 2
+- Components: 3
+
+Github: https://github.com/patwey/night_writer
+
 ## Team
+
+### Headcount
+- Functionality: 4
+- Test-Driven Development: 3.5
+- Fundamental Ruby & Style: 3
+- Encapsulation: 3
+
+Github: https://github.com/jasonpilz/Headcount
 
 ## Community
 
+TODO
+
 ### Feedback
+
+TODO: Get feedback from Ryan, Torie, and Jason
