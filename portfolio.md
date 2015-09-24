@@ -4,7 +4,6 @@
   My mission as a Turing student is to embrace discomfort in social situations, invest my time and effort into the Turing community, welcome challenges, confidently voice my opinions, and relentlessly seek constructive, actionable feedback.
 
 ### Sorting Suite
-#### Description
   A project where I implemented 3 sorting algorithms: bubble sort, insertion sort, and merge sort.
 #### Evaluation  
 - Functional Expectations: 3
@@ -15,7 +14,6 @@
 Github: https://github.com/patwey/sorting-suite
 
 ### Linked List
-#### Description
   A project where I built a linked list.
 #### Evaluation
 - Functional Expectations: 4
@@ -27,7 +25,6 @@ Github: https://github.com/patwey/sorting-suite
 Github: https://github.com/patwey/linked-list
 
 ### Binary Search Tree
-#### Description
   A project where I constructed a binary search tree.
 #### Evaluation
 - Functional Expectations: 4
@@ -39,7 +36,6 @@ Github: https://github.com/patwey/linked-list
 Github: https://github.com/patwey/binary-search-tree
 
 ### Night Writer
-#### Description
   A project where I built an application to translate between Braille and English.
 #### Evaluation
 - Overall: 3
@@ -52,7 +48,6 @@ Github: https://github.com/patwey/night_writer
 ## Team
 
 ### Headcount
-#### Description
   A group project where Jason Pilz and I built an application to parse and analyze a dataset of Colorado schools.
 
 #### Evaluation
