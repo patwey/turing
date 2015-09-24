@@ -7,47 +7,47 @@
 #### Description
   A project where I implemented 3 sorting algorithms: bubble sort, insertion sort, and merge sort.
 #### Evaluation  
-  - Functional Expectations: 3
-  - Testing: 3
-  - Ruby Style: 3
-  - Organization: 3
+- Functional Expectations: 3
+- Testing: 3
+- Ruby Style: 3
+- Organization: 3
 
-  Github: https://github.com/patwey/sorting-suite
+Github: https://github.com/patwey/sorting-suite
 
 ### Linked List
 #### Description
   A project where I built a linked list.
 #### Evaluation
-  - Functional Expectations: 4
-  - Test-Driven Development: 4
-  - Encapsulation / Breaking Logic into Components: 3
-  - Fundamental Ruby & Style: 3
-  - Looping or Recursion: 3
+- Functional Expectations: 4
+- Test-Driven Development: 4
+- Encapsulation / Breaking Logic into Components: 3
+- Fundamental Ruby & Style: 3
+- Looping or Recursion: 3
 
-  Github: https://github.com/patwey/linked-list
+Github: https://github.com/patwey/linked-list
 
 ### Binary Search Tree
 #### Description
   A project where I constructed a binary search tree.
 #### Evaluation
-  - Functional Expectations: 4
-  - Test-Driven Development: 4
-  - Encapsulation / Breaking Logic into Components: 3
-  - Fundamental Ruby & Style: 3
-  - Enumerable & Collections: 3
+- Functional Expectations: 4
+- Test-Driven Development: 4
+- Encapsulation / Breaking Logic into Components: 3
+- Fundamental Ruby & Style: 3
+- Enumerable & Collections: 3
 
-  Github: https://github.com/patwey/binary-search-tree
+Github: https://github.com/patwey/binary-search-tree
 
 ### Night Writer
 #### Description
   A project where I built an application to translate between Braille and English.
 #### Evaluation
-  - Overall: 3
-  - Fundamental Ruby & Style: 3
-  - Test-Driven Developent: 2
-  - Components: 3
+- Overall: 3
+- Fundamental Ruby & Style: 3
+- Test-Driven Developent: 2
+- Components: 3
 
-  Github: https://github.com/patwey/night_writer
+Github: https://github.com/patwey/night_writer
 
 ## Team
 
@@ -61,7 +61,7 @@
 - Fundamental Ruby & Style: 3
 - Encapsulation: 3
 
-  Github: https://github.com/jasonpilz/Headcount
+Github: https://github.com/jasonpilz/Headcount
 
 ## Community
 
